@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Arunraja D
 - 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning Msc Data science
-- 💞️ I’m looking to collaborate on ... ML problems
+- 🌱 I’m currently pursuing Msc Data science
 - 📫 How to reach me ... arunrajadh@gmail.com
 
 <!---
